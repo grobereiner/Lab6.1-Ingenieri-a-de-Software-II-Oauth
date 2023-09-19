@@ -1,0 +1,6 @@
+{
+    "CLIENT_ID": "0oabebmc8fLUu2LMq5d7",
+    "CLIENT_SECRET": "yvd4X9Ux3Fz0HuDk4VWHmJYEnYhO9hI6c5BEdelVfPfscpgTcXSdE48vGAFEvX2N",
+    "DIRECCION": "https://dev-38352690.okta.com/oauth2/default/v1/",
+    "REDIRECT_URI": "http://localhost:8080/authorization-code/callback"
+}
