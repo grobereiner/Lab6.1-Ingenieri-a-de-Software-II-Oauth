@@ -66,9 +66,9 @@ def retornar():
         }
     )
 
-    print(user_info_resp.json())
+    
 
-    return "ccall"
+    return json.dumps(user_info_resp.json())
 
 
 app.run("0.0.0.0", port=8080,debug=True)
